@@ -1,4 +1,4 @@
-🦾 GestureArm
+# 🦾 GestureArm
 
 > Real-time gesture-controlled robotic arm simulation using on-device AI hand tracking — no backend, no server, just your hand and a webcam.
 
@@ -133,4 +133,3 @@ This project is licensed under the [MIT License](./LICENSE).
 ---
 
 <p align="center">Made with ❤️ by Alphons Jaison</p>
-ng gesture-arm-README.md…]()
